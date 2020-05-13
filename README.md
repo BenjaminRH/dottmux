@@ -15,7 +15,6 @@ A list of plugins used.
 
  * [tmux-continuum](https://github.com/tmux-plugins/tmux-continuum) - Automatic periodic session saving
  * [tmux-copycat](https://github.com/tmux-plugins/tmux-copycat) - Search terminal history, supports regex
- * [tmux-prefix-highlight](https://github.com/tmux-plugins/tmux-prefix-highlight) - Status indicator for prefix/copy modes
  * [tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) - Restore tmux sessions after reboot
 
 
